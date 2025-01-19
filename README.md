@@ -24,6 +24,8 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contect </h2> <br> 
     <div align= "center"> Gmail: kods9852@gmail.com
           </div>  <br> 
+        <div align= "center"> naver: kods9852@naver.com
+          </div>  <br> 
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
