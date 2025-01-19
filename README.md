@@ -34,20 +34,20 @@
         <ul style="list-style-type: none; padding: 0;">
             <li>
                 <strong>🔗 <a href="https://github.com/kiminbeam/exercise-routine-app.git" style="text-decoration: none; color: #0366d6;">운동 루틴 관리 앱</a></strong><br>
-                간단한 설명: 설명을 여기에 추가하세요.<br>
-                기술 스택: Java, Spring Boot, MariaDB
+                간단한 설명: 운동을 하고자 하는 사용자들을 위해 계획 관리 에플리케이션을 만들었습니다.<br>
+                기술 스택: Java, Spring Boot, Flutter, riverPod
             </li>
             <br>
             <li>
                 <strong>🔗 <a href="https://github.com/kiminbeam/spring-web-project-jesiyo.git" style="text-decoration: none; color: #0366d6;">중고 경매 사이트(제시요)</a></strong><br>
-                간단한 설명: 설명을 여기에 추가하세요.<br>
-                기술 스택: HTML, CSS, JavaScript
+                간단한 설명: 중고물품 판매를 경매방식으로 진행하는 사이트를 만들었습니다.<br>
+                기술 스택: HTML, CSS, JavaScript, Java
             </li>
             <br>
             <li>
                 <strong>🔗 <a href="https://github.com/kiminbeam/comeonBusan.git" style="text-decoration: none; color: #0366d6;">부산 관광 컨텐츠 소개 사이트</a></strong><br>
-                간단한 설명: 설명을 여기에 추가하세요.<br>
-                기술 스택: Python, Django, PostgreSQL
+                간단한 설명: 부산 관광을 위해 정보들을 제공하는 사이트를 만들었습니다.<br>
+                기술 스택: HTML, CSS, JavaScript, Java
             </li>
         </ul>
     </div>
