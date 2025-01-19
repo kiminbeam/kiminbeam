@@ -28,6 +28,22 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
+    ## Projects
+
+### 📘 [Project Name 1](https://github.com/username/project1)
+- **Description:** 간단한 설명을 여기에 추가.
+- **Tech Stack:** Python, Django, PostgreSQL
+- **Highlights:** 주요 기능, 학습한 내용, 성과 등.
+
+### 📗 [Project Name 2](https://github.com/username/project2)
+- **Description:** 간단한 설명을 여기에 추가.
+- **Tech Stack:** React, Node.js, MongoDB
+- **Highlights:** 주요 기능, 학습한 내용, 성과 등.
+
+### 📙 [Project Name 3](https://github.com/username/project3)
+- **Description:** 간단한 설명을 여기에 추가.
+- **Tech Stack:** Java, Spring Boot, MySQL
+- **Highlights:** 주요 기능, 학습한 내용, 성과 등.
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 스탯 </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=kiminbeam&custom_title=kiminbeam's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiminbeam&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
