@@ -33,13 +33,13 @@
     <div style="text-align: left; display: inline-block; max-width: 600px;">
         <ul style="list-style-type: none; padding: 0;">
             <li>
-                <strong>🔗 <a href="https://github.com/kiminbeam/exercise-routine-app.git" style="text-decoration: none; color: #0366d6;">운동 계획 관리 앱</a></strong><br>
+                <strong>🔗 <a href="https://github.com/kiminbeam/exercise-routine-app.git" style="text-decoration: none; color: #0366d6;">운동 루틴 관리 앱</a></strong><br>
                 간단한 설명: 설명을 여기에 추가하세요.<br>
                 기술 스택: Java, Spring Boot, MariaDB
             </li>
             <br>
             <li>
-                <strong>🔗 <a href="https://github.com/username/project2" style="text-decoration: none; color: #0366d6;">Project Name 2</a></strong><br>
+                <strong>🔗 <a href="https://github.com/kiminbeam/spring-web-project-jesiyo.git" style="text-decoration: none; color: #0366d6;">중고 경매 사이트(제시요)</a></strong><br>
                 간단한 설명: 설명을 여기에 추가하세요.<br>
                 기술 스택: HTML, CSS, JavaScript
             </li>
