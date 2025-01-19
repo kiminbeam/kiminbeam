@@ -45,7 +45,7 @@
             </li>
             <br>
             <li>
-                <strong>🔗 <a href="https://github.com/username/project3" style="text-decoration: none; color: #0366d6;">Project Name 3</a></strong><br>
+                <strong>🔗 <a href="https://github.com/kiminbeam/comeonBusan.git" style="text-decoration: none; color: #0366d6;">부산 관광 컨텐츠 소개 사이트</a></strong><br>
                 간단한 설명: 설명을 여기에 추가하세요.<br>
                 기술 스택: Python, Django, PostgreSQL
             </li>
