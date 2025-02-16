@@ -1,6 +1,8 @@
 <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 새총같은 개발자 김인범 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 평소에는 조용하지만 입을 열면 미쳐있는 저를 보실 수 있습니다.</li><li> 많은 생각을 통해서 좋은 결과를 이끌어 내려고 합니다. </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 숲과 같은 개발자 김인범 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 멀리서 보면 속이 잘 안보이지만 가까이서 보게 되면 잘 가꾸어진 저를 보실 수 있습니다.</li>
+        <li> 숲이 많은 나무를 품고 있듯이 저 또한 많은 생각을 품고 있습니다.</li>
+        <li> 많은 생각을 통해서 좋은 결과를 이끌어 내려고 합니다. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ 내 기술스택 </h2> <br> 
