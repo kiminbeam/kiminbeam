@@ -1,5 +1,5 @@
 <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 조용히 미쳐있는 개발자 김인범 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 새총같은 개발자 김인범 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 평소에는 조용하지만 입을 열면 미쳐있는 저를 보실 수 있습니다.</li><li> 많은 생각을 통해서 좋은 결과를 이끌어 내려고 합니다. </div> 
     </div>
     <div align= "center">
